@@ -1,0 +1,262 @@
+#mydiv{
+    border: 1px solid black;
+    height: 230vh;
+    width: 65%;
+    background-image: url("https://wallpapercave.com/wp/wp7213373.jpg");
+    background-size: 340%;
+    background-repeat: no-repeat;
+}
+#img1{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 490px;
+    border-radius: 100%;
+}
+#img2{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 640px;
+    border-radius: 100%;
+
+}
+#p1{
+    position: absolute;
+    left: 485px;
+    font-size: small;
+}
+#p2{
+    position: absolute;
+    left: 635px;
+    font-size: small;
+}
+#img3{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 340px;
+    border-radius: 100%;
+
+}
+#p3{
+    position: absolute;
+    left: 310px;
+    font-size: small;
+}
+#img4{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 560px;
+    border-radius: 100%;
+
+}
+#p4{
+    position: absolute;
+    left: 540px;
+    font-size: small;
+}
+#img5{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 760px;
+    border-radius: 100%;
+
+}
+#p5{
+    position: absolute;
+    left: 740px;
+    font-size: small;
+}
+#img6{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 290px;
+    border-radius: 100%;
+
+}
+#p6{
+    position: absolute;
+    left: 280px;
+    font-size: small;
+}
+
+#img7{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 480px;
+    border-radius: 100%;
+
+}
+#p7{
+    position: absolute;
+    left: 470px;
+    font-size: small;
+}
+#img8{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 640px;
+    border-radius: 100%;
+
+}
+#p8{
+    position: absolute;
+    left: 630px;
+    font-size: small;
+}
+#img9{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 830px;
+    border-radius: 100%;
+
+}
+#p9{
+    position: absolute;
+    left: 820px;
+    font-size: small;
+}
+#img10{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 385px;
+    border-radius: 100%;
+
+}
+#p10{
+    position: absolute;
+    left: 375px;
+    font-size: small;
+}
+
+#img11{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 560px;
+    border-radius: 100%;
+
+}
+#p11{
+    position: absolute;
+    left: 550px;
+    font-size: small;
+}
+#img12{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 735px;
+    border-radius: 100%;
+
+}
+#p12{
+    position: absolute;
+    left: 725px;
+    font-size: small;
+}
+#img13{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 290px;
+    border-radius: 100%;
+
+}
+#p13{
+    position: absolute;
+    left: 280px;
+    font-size: small;
+}
+
+#img14{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 480px;
+    border-radius: 100%;
+
+}
+#p14{
+    position: absolute;
+    left: 470px;
+    font-size: small;
+}
+#img15{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 640px;
+    border-radius: 100%;
+
+}
+#p15{
+    position: absolute;
+    left: 630px;
+    font-size: small;
+}
+#img16{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 830px;
+    border-radius: 100%;
+
+}
+#p16{
+    position: absolute;
+    left: 820px;
+    font-size: small;
+}
+#img17{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 385px;
+    border-radius: 100%;
+
+}
+#p17{
+    position: absolute;
+    left: 375px;
+    font-size: small;
+}
+#img18{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 560px;
+    border-radius: 100%;
+
+}
+#p18{
+    position: absolute;
+    left: 550px;
+    font-size: small;
+}
+#img19{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: 735px;
+    border-radius: 100%;
+
+}
+#p19{
+    position: absolute;
+    left: 725px;
+    font-size: small;
+}
+#btn{
+    position: absolute;
+    top: 225vh;
+    left: 440px;
+}
